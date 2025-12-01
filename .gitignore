@@ -1,0 +1,4 @@
+# Ignore dataset files
+*.csv
+*.h5ad
+*.rds
